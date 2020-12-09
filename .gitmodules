@@ -1,0 +1,3 @@
+[submodule "Galgenvogel"]
+	path = Galgenvogel
+	url = https://github.com/brazzy/Galgenvogel.git
